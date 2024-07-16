@@ -1,4 +1,3 @@
-# Sistema de Gestión de Inventarios
+# Sistema de Gestión de Inventariosde una tienda de frenos
 
-![a](![image](https://github.com/user-attachments/assets/2af7277c-40dc-4144-953a-73b17bb639b6)
-)
+![image](https://github.com/user-attachments/assets/84fcb2b4-d085-4aa1-b84d-4f2503e4b16d)
