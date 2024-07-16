@@ -1,3 +1,4 @@
 # Sistema de Gestión de Inventarios
 
-![a](https://github.com/carmonabernaldiego/inventory/assets/43613125/156d0afd-573f-4c8b-b5a4-c09955556e10)
+![a](![image](https://github.com/user-attachments/assets/2af7277c-40dc-4144-953a-73b17bb639b6)
+)
